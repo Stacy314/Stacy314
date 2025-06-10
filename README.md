@@ -11,7 +11,7 @@ I'm a student at **School 42**, passionate about software development and consta
 
 ## 🛠 Tech Stack
 
-- Languages: `C`, `C++`, `Python`, `Shell`, `HTML`, `CSS`, `JavaScript`
+- Languages: `C`, `C++`, `Python`, `Shell`, `HTML`, `CSS`, `JavaScript`, `Go`
 - Tools: `Git`, `VS Code`, `Linux`, `Makefile`, `Vim`
 
 ## 📫 Let's Connect!
